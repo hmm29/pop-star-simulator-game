@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "firstName": "Roxie",
+    "lastName": "Mae",
+    "role": "stylist",
+    "cardImg": "./img/characters/1-roxanna.png"
+  },
+  {
+    "id": 2,
+    "firstName": "Brick",
+    "lastName": "Wilder",
+    "role": "A&R manager",
+    "cardImg": "./img/characters/2-brick.png"
+  },
+  {
+    "id": 3,
+    "firstName": "Nina",
+    "lastName": "Velasquez",
+    "role": "publicist",
+    "cardImg": "./img/characters/3-nina.png"
+  },
+  {
+    "id": 4,
+    "firstName": "Jackson",
+    "lastName": "Brody",
+    "role": "tour manager",
+    "cardImg": "./img/characters/4-jackson.png"
+  },
+  {
+    "id": 5,
+    "firstName": "Axel",
+    "lastName": "Rodgers",
+    "role": "stage designer",
+    "cardImg": "./img/characters/5-axel.png"
+  },
+  {
+    "id": 6,
+    "firstName": "Baby Cartier",
+    "lastName": "X",
+    "role": "celebrity friend",
+    "cardImg": "./img/characters/6-lil-cartier.png"
+  },
+  {
+    "id": 7,
+    "firstName": "Amjad",
+    "lastName": "Masad",
+    "role": "label exec",
+    "cardImg": "./img/characters/7-amjad.png"
+  },
+  {
+    "id": 8,
+    "firstName": "Amalia",
+    "lastName": "Partridge",
+    "role": "up-and-coming TikToker",
+    "cardImg": "./img/characters/8-amalia.png"
+  },
+  {
+    "id": 9,
+    "firstName": "Jordie",
+    "lastName": "Michaelson",
+    "role": "fan",
+    "cardImg": "./img/characters/9-jordie.png"
+  },
+  {
+    "id": 10,
+    "firstName": "Tay-Tay",
+    "lastName": "Jacobs",
+    "role": "paparazzo",
+    "cardImg": "./img/characters/10-tay-tay.png"
+  },
+  {
+    "id": 11,
+    "firstName": "Shawn",
+    "lastName": "Wilder",
+    "role": "road crew manager",
+    "cardImg": "./img/characters/11-shawn.png"
+  },
+  {
+    "id": 12,
+    "firstName": "Holla Day",
+    "lastName": "X",
+    "role": "pyrotechnics",
+    "cardImg": "./img/characters/12-holla.png"
+  },
+  {
+    "id": 13,
+    "firstName": "Pablo",
+    "lastName": "Franco",
+    "role": "sound technician",
+    "cardImg": "./img/characters/13-paulo.png"
+  },
+  {
+    "id": 14,
+    "firstName": "Melody",
+    "lastName": "Marquez",
+    "role": "talk show host",
+    "cardImg": "./img/characters/14-melody.png"
+  },
+  {
+    "id": 15,
+    "firstName": "Marty",
+    "lastName": "Peters",
+    "role": "sound director",
+    "cardImg": "./img/characters/15-marty.png"
+  },
+  {
+    "id": 16,
+    "firstName": "Jaguar",
+    "lastName": "Evans",
+    "role": "indie film director",
+    "cardImg": "./img/characters/16-jaguar.png"
+  },
+  {
+    "id": 17,
+    "firstName": "Brax",
+    "lastName": "Mitchell",
+    "role": "cancelled YouTuber",
+    "cardImg": "./img/characters/17-braxton.png"
+  },
+  {
+    "id": 18,
+    "firstName": "Mona",
+    "lastName": "Cromwell",
+    "role": "financial manager",
+    "cardImg": "./img/characters/18-mona.png"
+  },
+  {
+    "id": 19,
+    "firstName": "Darlene",
+    "lastName": "Fox",
+    "role": "journalist",
+    "cardImg": "./img/characters/19-darlene.png"
+  },
+  {
+    "id": 20,
+    "firstName": "Courtnie",
+    "lastName": "Jacobs",
+    "role": "head of your Twitter fan club",
+    "cardImg": "./img/characters/20-courtnee.png"
+  },
+  {
+    "id": 21,
+    "firstName": "J.J.",
+    "lastName": "Maxwell",
+    "role": "vocal coach",
+    "cardImg": "./img/characters/21-jj.png"
+  },
+  {
+    "id": 23,
+    "firstName": "Silas",
+    "lastName": "O'Connor",
+    "role": "tour logistics",
+    "cardImg": "./img/characters/23-silas.png"
+  },
+  {
+    "id": 24,
+    "firstName": "Lars",
+    "lastName": "Hamilton",
+    "role": "hair & makeup",
+    "cardImg": "./img/characters/24-lewis.png"
+  },
+  {
+    "id": 25,
+    "firstName": "Tosh",
+    "lastName": "Nicholson",
+    "role": "chaffeur",
+    "cardImg": "./img/characters/25-tosh.png"
+  },
+  {
+    "id": 26,
+    "firstName": "Jaycee",
+    "lastName": "Lyons",
+    "role": "controversial YouTuber",
+    "cardImg": "./img/characters/26-jayce.png"
+  },
+  {
+    "id": 27,
+    "firstName": "Neema",
+    "lastName": "Benson",
+    "role": "agent",
+    "cardImg": "./img/characters/27-neema.png"
+  },
+  {
+    "id": 28,
+    "firstName": "Lolo",
+    "lastName": "Li",
+    "role": "lawyer",
+    "cardImg": "./img/characters/28-lolo.png"
+  }
+]

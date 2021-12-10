@@ -1,0 +1,1108 @@
+[
+  [
+    {
+      "characterId": 2,
+      "prompt": "Yo! How soon can you start songwriting for the album? Can let fans know.",
+      "options": [
+        {
+          "optionText": "Tomorrow",
+          "followerDelta": 823992,
+          "happinessDelta": 2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Give me a few months",
+          "followerDelta": 0,
+          "happinessDelta": -2,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 3,
+      "prompt": "I think we should post some photos of you and your new puppies on Instagram.",
+      "options": [
+        {
+          "optionText": "Definitely",
+          "followerDelta": 2331992,
+          "happinessDelta": 2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "What puppies?",
+          "followerDelta": 2102132,
+          "happinessDelta": 1,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 9,
+      "prompt": "Hi, you are my idol. Will you marry me?",
+      "options": [
+        {
+          "optionText": "Maybe",
+          "followerDelta": 330992,
+          "happinessDelta": -2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Keep dreaming",
+          "followerDelta": -982,
+          "happinessDelta": -1,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 27,
+      "prompt": "I'm hustling to get you nominated for Choice Pop Song at the Teen Choice Awards.",
+      "options": [
+        {
+          "optionText": "Sweet",
+          "followerDelta": 1182000,
+          "happinessDelta": 2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Cool",
+          "followerDelta": 1123000,
+          "happinessDelta": -1,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 23,
+      "prompt": "Amsterdam or Berlin for the fifth tour stop? Need to know by end of day.",
+      "options": [
+        {
+          "optionText": "Amsterdam",
+          "followerDelta": 231992,
+          "happinessDelta": 2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Berlin",
+          "followerDelta": 8231002,
+          "happinessDelta": 5,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 10,
+      "prompt": "Tay-Tay here with Poppify Magazine. Turn around for the camera! Where are you heading to?",
+      "options": [
+        {
+          "optionText": "Cover face and proceed",
+          "followerDelta": 5688912,
+          "happinessDelta": -1,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "Go back inside",
+          "followerDelta": 198,
+          "happinessDelta": -2,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 1,
+      "prompt": "Your pop rival is wearing platform shoes with live clownfish in them. Social media went nuts. How do you want to upstage them?",
+      "options": [
+        {
+          "optionText": "Sapphire sneakers",
+          "followerDelta": 20000560,
+          "happinessDelta": 3,
+          "timeDelta": -45
+        },
+        {
+          "optionText": "Jet-powered hoverboots",
+          "followerDelta": 12100052,
+          "happinessDelta": 2,
+          "timeDelta": -45
+        }
+      ]
+    },
+    {
+      "characterId": 24,
+      "prompt": "I think you'd look great with the hot pink blush and silver eyeliner for tonight's performance.",
+      "options": [
+        {
+          "optionText": "Let's try it",
+          "followerDelta": 197123,
+          "happinessDelta": 1,
+          "timeDelta": -30
+        },
+        {
+          "optionText": "Not for me",
+          "followerDelta": 11002,
+          "happinessDelta": -3,
+          "timeDelta": -30
+        }
+      ]
+    },
+    {
+      "characterId": 14,
+      "prompt": "I want you on my late night talk show. Let's give your audience the juicy deets they want. When are you available?",
+      "options": [
+        {
+          "optionText": "Next month",
+          "followerDelta": 4463812,
+          "happinessDelta": 1,
+          "timeDelta": -55
+        },
+        {
+          "optionText": "I'll pass",
+          "followerDelta": -3821002,
+          "happinessDelta": -1,
+          "timeDelta": -55
+        }
+      ]
+    },
+    {
+      "characterId": 4,
+      "prompt": "Some French EDM artist named Tok Tiki wants to do a collab with you. Are you down?",
+      "options": [
+        {
+          "optionText": "Don't know him",
+          "followerDelta": -891,
+          "happinessDelta": -1,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "Eh, can't hurt",
+          "followerDelta": 1200000,
+          "happinessDelta": 1,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 25,
+      "prompt": "What's your car of choice: Bugatti or Bentley?",
+      "options": [
+        {
+          "optionText": "Bugatti",
+          "followerDelta": 6812389,
+          "happinessDelta": 3,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Bentley",
+          "followerDelta": 4819123,
+          "happinessDelta": 1,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 23,
+      "prompt": "You have a growing fanbase in New Zealand. Are you down to do a show there for the summer tour?",
+      "options": [
+        {
+          "optionText": "Yes, let fans know",
+          "followerDelta": 1812389,
+          "happinessDelta": -2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Keep current schedule",
+          "followerDelta": 9718123,
+          "happinessDelta": 1,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 19,
+      "prompt": "Can you tell me more about your childhood for this op-ed I'm writing?",
+      "options": [
+        {
+          "optionText": "No thanks",
+          "followerDelta": -692,
+          "happinessDelta": -2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Book with my agent",
+          "followerDelta": 819123,
+          "happinessDelta": -3,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 24,
+      "prompt": "How many wigs do you want for the summer tour?",
+      "options": [
+        {
+          "optionText": "No wigs",
+          "followerDelta": -232,
+          "happinessDelta": -1,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Yes",
+          "followerDelta": 28229192,
+          "happinessDelta": -1,
+          "timeDelta": -60
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "characterId": 9,
+      "prompt": "Hi! I was at your first concert ever. At that small-town bar. Will you sign my leg?",
+      "options": [
+        {
+          "optionText": "I'm in the middle of dinner",
+          "followerDelta": -12789002,
+          "happinessDelta": -1,
+          "timeDelta": -35
+        },
+        {
+          "optionText": "Yes, stay fabulous",
+          "followerDelta": 2459300,
+          "happinessDelta": 2,
+          "timeDelta": -35
+        }
+      ]
+    },
+    {
+      "characterId": 8,
+      "prompt": "Text: 'my swimming pool music video just went viral 💅🏾🤩💅🏾 Duet me now to ride the hype 🌊'",
+      "options": [
+        {
+          "optionText": "Duet on TikTok",
+          "followerDelta": 86127121,
+          "happinessDelta": 0,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "I make my own trends",
+          "followerDelta": 0,
+          "happinessDelta": 1,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 7,
+      "prompt": "How's the album coming along? Your fans and the execs are all wondering.",
+      "options": [
+        {
+          "optionText": "Album?",
+          "followerDelta": -25700000,
+          "happinessDelta": -2,
+          "timeDelta": -48
+        },
+        {
+          "optionText": "I'm almost done",
+          "followerDelta": 207000000,
+          "happinessDelta": 3,
+          "timeDelta": -48
+        }
+      ]
+    },
+    {
+      "characterId": 25,
+      "prompt": "I don't think you'll make it to the show in time. This traffic is worse than LA's. Plus it's raining.",
+      "options": [
+        {
+          "optionText": "I'll walk",
+          "followerDelta": -652181,
+          "happinessDelta": -3,
+          "timeDelta": -85
+        },
+        {
+          "optionText": "Drive around it",
+          "followerDelta": 89128,
+          "happinessDelta": -4,
+          "timeDelta": -85
+        }
+      ]
+    },
+    {
+      "characterId": 5,
+      "prompt": "A spotlight just fell on one of the front row dancers while you were singing! What do we do?",
+      "options": [
+        {
+          "optionText": "Keep going for the fans",
+          "followerDelta": -10400453,
+          "happinessDelta": -4,
+          "timeDelta": -80
+        },
+        {
+          "optionText": "Stop the show now",
+          "followerDelta": -1700000,
+          "happinessDelta": -1,
+          "timeDelta": -80
+        }
+      ]
+    },
+    {
+      "characterId": 16,
+      "prompt": "I'm making a live action horror adaptation of Three Little Pigs. We need an original song. Are you in?",
+      "options": [
+        {
+          "optionText": "I don't sing horror songs",
+          "followerDelta": 0,
+          "happinessDelta": -2,
+          "timeDelta": -50
+        },
+        {
+          "optionText": "I'm honored",
+          "followerDelta": 4801000,
+          "happinessDelta": -1,
+          "timeDelta": -80
+        }
+      ]
+    },
+    {
+      "characterId": 27,
+      "prompt": "I booked you a cameo spot in the next Jurassic Park film. Mind giving me a bigger cut?",
+      "options": [
+        {
+          "optionText": "You deserve it",
+          "followerDelta": 23729123,
+          "happinessDelta": 1,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "I'll think about it",
+          "followerDelta": 279123,
+          "happinessDelta": -4,
+          "timeDelta": -70
+        }
+      ]
+    },
+    {
+      "characterId": 11,
+      "prompt": "We just got a flat tire. You might miss your New York show in two hours. What should we do?",
+      "options": [
+        {
+          "optionText": "Call Triple A?",
+          "followerDelta": -2002902,
+          "happinessDelta": 1,
+          "timeDelta": -85
+        },
+        {
+          "optionText": "Go outside and start pushing",
+          "followerDelta": 17240932,
+          "happinessDelta": -3,
+          "timeDelta": -85
+        }
+      ]
+    },
+    {
+      "characterId": 18,
+      "prompt": "Just ran some reports. Your extravagant concert sets are costing us too much.",
+      "options": [
+        {
+          "optionText": "Talk to Axel",
+          "followerDelta": 1892,
+          "happinessDelta": -1,
+          "timeDelta": -70
+        },
+        {
+          "optionText": "It's worth it",
+          "followerDelta": 3821002,
+          "happinessDelta": -2,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 6,
+      "prompt": "Why you be ignoring me, foo'? Let's hang out. Besties gotta stay tight.",
+      "options": [
+        {
+          "optionText": "Let's catch up",
+          "followerDelta": 8920712,
+          "happinessDelta": 2,
+          "timeDelta": -55
+        },
+        {
+          "optionText": "Sorry, too busy",
+          "followerDelta": -821002,
+          "happinessDelta": -1,
+          "timeDelta": -95
+        }
+      ]
+    },
+    {
+      "characterId": 20,
+      "prompt": "DM: 'hi i love you so much 😭💋 can I ever meet you alone in person?'",
+      "options": [
+        {
+          "optionText": "Send tickets to next concert",
+          "followerDelta": 91271992,
+          "happinessDelta": 1,
+          "timeDelta": -78
+        },
+        {
+          "optionText": "Ignore, this is creepy",
+          "followerDelta": -12821002,
+          "happinessDelta": -2,
+          "timeDelta": -90
+        }
+      ]
+    },
+    {
+      "characterId": 3,
+      "prompt": "Someone started a conspiracy that you're the secret co-founder of Scientology. How should we handle?",
+      "options": [
+        {
+          "optionText": "Play it up on Twitter",
+          "followerDelta": 76261812,
+          "happinessDelta": -1,
+          "timeDelta": -50
+        },
+        {
+          "optionText": "Shut it down now",
+          "followerDelta": -289101,
+          "happinessDelta": -1,
+          "timeDelta": -50
+        }
+      ]
+    },
+    {
+      "characterId": 3,
+      "prompt": "Kylie invited you to her Bora Bora yacht club party this summer. If you go you'll have to cancel the Montreal tour stop.",
+      "options": [
+        {
+          "optionText": "Chill with Kylie",
+          "followerDelta": 310000246,
+          "happinessDelta": 1,
+          "timeDelta": -55
+        },
+        {
+          "optionText": "Turn down invite to look cool",
+          "followerDelta": -23000500,
+          "happinessDelta": 1,
+          "timeDelta": -55
+        }
+      ]
+    },
+    {
+      "characterId": 1,
+      "prompt": "The paparazzi are waiting outside your front door. Rainbow zebra hoodie or pepperoni pizza sweater for today's look?",
+      "options": [
+        {
+          "optionText": "Rainbow zebras",
+          "followerDelta": 38000000,
+          "happinessDelta": 3,
+          "timeDelta": -30
+        },
+        {
+          "optionText": "Pizza sweater",
+          "followerDelta": 11001005,
+          "happinessDelta": -1,
+          "timeDelta": -50
+        }
+      ]
+    },
+    {
+      "characterId": 17,
+      "prompt": "I'm making a comeback after my last Internet fiasco. Will you help me rebuild my brand?",
+      "options": [
+        {
+          "optionText": "Sorry, dude",
+          "followerDelta": 129028,
+          "happinessDelta": 1,
+          "timeDelta": -70
+        },
+        {
+          "optionText": "Sure",
+          "followerDelta": -11221002,
+          "happinessDelta": -4,
+          "timeDelta": -75
+        }
+      ]
+    },
+    {
+      "characterId": 21,
+      "prompt": "You need to take a break or else vocal chords will be injured.",
+      "options": [
+        {
+          "optionText": "Take a break",
+          "followerDelta": -2780000,
+          "happinessDelta": 3,
+          "timeDelta": -90
+        },
+        {
+          "optionText": "I'll be fine",
+          "followerDelta": 28001000,
+          "happinessDelta": -4,
+          "timeDelta": -70
+        }
+      ]
+    },
+    {
+      "characterId": 13,
+      "prompt": "The concert audience is getting really bad audio feedback and noise. I'm busy right now but will work on a fix right away.",
+      "options": [
+        {
+          "optionText": "Fix it now",
+          "followerDelta": 19123123,
+          "happinessDelta": -3,
+          "timeDelta": -45
+        },
+        {
+          "optionText": "End the concert",
+          "followerDelta": -21231002,
+          "happinessDelta": -1,
+          "timeDelta": -45
+        }
+      ]
+    },
+    {
+      "characterId": 26,
+      "prompt": "Letting you know I just called you out on my YouTube channel for those old Twitter rants you posted in high school.",
+      "options": [
+        {
+          "optionText": "Tweet about this",
+          "followerDelta": 1123189,
+          "happinessDelta": 1,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Don't respond",
+          "followerDelta": -23189123,
+          "happinessDelta": -3,
+          "timeDelta": -60
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "characterId": 28,
+      "prompt": "Some YouTuber wants to join our road crew and blog about it on her socials. We'll own all the IP.",
+      "options": [
+        {
+          "optionText": "Let them join",
+          "followerDelta": 60400000,
+          "happinessDelta": -3,
+          "timeDelta": -45
+        },
+        {
+          "optionText": "Nah, could get messy",
+          "followerDelta": -4300000,
+          "happinessDelta": 1,
+          "timeDelta": -35
+        }
+      ]
+    },
+    {
+      "characterId": 23,
+      "prompt": "Can we add a Madrid show to the tour schedule? I think it'd be good, and I have friends there I need to see.",
+      "options": [
+        {
+          "optionText": "Yep, sounds fine",
+          "followerDelta": 6552792,
+          "happinessDelta": -1,
+          "timeDelta": -30
+        },
+        {
+          "optionText": "Nah, that's my vacation week",
+          "followerDelta": -19203,
+          "happinessDelta": -2,
+          "timeDelta": -30
+        }
+      ]
+    },
+    {
+      "characterId": 5,
+      "prompt": "Next concert's visual theme: Martian Forest Rave or Psychedelic Witch Castle?",
+      "options": [
+        {
+          "optionText": "Martian Forest Rave",
+          "followerDelta": 130100150,
+          "happinessDelta": 1,
+          "timeDelta": -65
+        },
+        {
+          "optionText": "Psychedelic Witch Castle",
+          "followerDelta": 38420000,
+          "happinessDelta": 2,
+          "timeDelta": -65
+        }
+      ]
+    },
+    {
+      "characterId": 3,
+      "prompt": "Should I book you for The Wendy Woof Show? She needs a guest singer. Her show's audience is dog moms.",
+      "options": [
+        {
+          "optionText": "Woof? yes please",
+          "followerDelta": 17684000,
+          "happinessDelta": 1,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "Nah, that's not my audience",
+          "followerDelta": -10823,
+          "happinessDelta": 2,
+          "timeDelta": -30
+        }
+      ]
+    },
+    {
+      "characterId": 11,
+      "prompt": "I bought this giant Medusa statue yesterday and want Axel to use it at the Barcelona concert.",
+      "options": [
+        {
+          "optionText": "I approve",
+          "followerDelta": 72819123,
+          "happinessDelta": 1,
+          "timeDelta": -30
+        },
+        {
+          "optionText": "Don't need it",
+          "followerDelta": 0,
+          "happinessDelta": -2,
+          "timeDelta": -70
+        }
+      ]
+    },
+    {
+      "characterId": 4,
+      "prompt": "Can you do a Paris show next week? We've been teasing the fans about this. I know your mom's birthday is next Wednesday.",
+      "options": [
+        {
+          "optionText": "Paris, here we come",
+          "followerDelta": 4040000,
+          "happinessDelta": 1,
+          "timeDelta": -70
+        },
+        {
+          "optionText": "Gotta prioritize Mama",
+          "followerDelta": -1000000,
+          "happinessDelta": 1,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 1,
+      "prompt": "VMAs are in September. Balenciaga red latex suit or the blue-and-white Gucci onesie?",
+      "options": [
+        {
+          "optionText": "Balenciaga latex",
+          "followerDelta": 20070400,
+          "happinessDelta": 1,
+          "timeDelta": -30
+        },
+        {
+          "optionText": "Gucci onesie",
+          "followerDelta": 5020000,
+          "happinessDelta": 1,
+          "timeDelta": -30
+        }
+      ]
+    },
+    {
+      "characterId": 12,
+      "prompt": "How many fire jets do you want for your Coachella performance?",
+      "options": [
+        {
+          "optionText": "Just yes",
+          "followerDelta": 22002902,
+          "happinessDelta": 1,
+          "timeDelta": -55
+        },
+        {
+          "optionText": "Only 50 this time",
+          "followerDelta": 3220123,
+          "happinessDelta": -1,
+          "timeDelta": -55
+        }
+      ]
+    },
+    {
+      "characterId": 3,
+      "prompt": "A fan said she'll pay you $50,000 to perform at her birthday party. It's risky but could make you look more generous.",
+      "options": [
+        {
+          "optionText": "Take the risk",
+          "followerDelta": 6000007,
+          "happinessDelta": -3,
+          "timeDelta": -95
+        },
+        {
+          "optionText": "Only $50,000?",
+          "followerDelta": -20012000,
+          "happinessDelta": 1,
+          "timeDelta": -95
+        }
+      ]
+    },
+    {
+      "characterId": 6,
+      "prompt": "Renting a lux villa in Mexico for a month. Ya girl is turning 21!! Move your concerts around and come through!",
+      "options": [
+        {
+          "optionText": "Sorry, can't make it",
+          "followerDelta": -8920712,
+          "happinessDelta": 1,
+          "timeDelta": -100
+        },
+        {
+          "optionText": "I wouldn't miss it!",
+          "followerDelta": 28221002,
+          "happinessDelta": -4,
+          "timeDelta": -80
+        }
+      ]
+    },
+    {
+      "characterId": 23,
+      "prompt": "There's a serious hurricane warning the day of your Miami show. Should we reschedule and let fans know?",
+      "options": [
+        {
+          "optionText": "Reschedule",
+          "followerDelta": -5400000,
+          "happinessDelta": -1,
+          "timeDelta": -45
+        },
+        {
+          "optionText": "Rain or shine, buddy",
+          "followerDelta": 12102030,
+          "happinessDelta": -2,
+          "timeDelta": -45
+        }
+      ]
+    },
+    {
+      "characterId": 2,
+      "prompt": "So...given how well your album is doing, I'd like a raise so I can buy myself that Ferrari.",
+      "options": [
+        {
+          "optionText": "Yeah right!",
+          "followerDelta": -187897,
+          "happinessDelta": -2,
+          "timeDelta": -32
+        },
+        {
+          "optionText": "Fine",
+          "followerDelta": 5000000,
+          "happinessDelta": 1,
+          "timeDelta": -32
+        }
+      ]
+    },
+    {
+      "characterId": 5,
+      "prompt": "You'll be suspended upside-down above the stage during three songs. It'll be uncomfortable but fans will love it.",
+      "options": [
+        {
+          "optionText": "Probably not safe",
+          "followerDelta": 0,
+          "happinessDelta": -2,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "Anything for my fans",
+          "followerDelta": 103000000,
+          "happinessDelta": 2,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 15,
+      "prompt": "I want a raise or I'm quitting.",
+      "options": [
+        {
+          "optionText": "Sounds reasonable",
+          "followerDelta": 890291,
+          "happinessDelta": 2,
+          "timeDelta": -70
+        },
+        {
+          "optionText": "Exit is over there",
+          "followerDelta": -45821,
+          "happinessDelta": -3,
+          "timeDelta": -80
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "characterId": 1,
+      "prompt": "Holiday season is around the corner. I knitted this lime green santa jacket for you to wear at your next concert.",
+      "options": [
+        {
+          "optionText": "I dig it",
+          "followerDelta": -21000560,
+          "happinessDelta": 1,
+          "timeDelta": -35
+        },
+        {
+          "optionText": "Not my vibe",
+          "followerDelta": 0,
+          "happinessDelta": -3,
+          "timeDelta": -35
+        }
+      ]
+    },
+    {
+      "characterId": 2,
+      "prompt": "Think you could pull off a country dance pop track this season? Could help you stand out more.",
+      "options": [
+        {
+          "optionText": "Nope, I'm good",
+          "followerDelta": 1000000,
+          "happinessDelta": -1,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "Flexibility wins, right?",
+          "followerDelta": -2400000,
+          "happinessDelta": 1,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 3,
+      "prompt": "Colbert just called. He needs three singers for his Christmas Special. There's a lot of competition for these spots.",
+      "options": [
+        {
+          "optionText": "Accept and tweet about it",
+          "followerDelta": 30000000,
+          "happinessDelta": 1,
+          "timeDelta": -30
+        },
+        {
+          "optionText": "Say 'Ill see' and book Fallon",
+          "followerDelta": 401000000,
+          "happinessDelta": -1,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 8,
+      "prompt": "Any chance you want to jam with me on a livestream? Could be good for both our brands.",
+      "options": [
+        {
+          "optionText": "For sure",
+          "followerDelta": 310087,
+          "happinessDelta": 1,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Who are you though?",
+          "followerDelta": 0,
+          "happinessDelta": 1,
+          "timeDelta": -65
+        }
+      ]
+    },
+    {
+      "characterId": 19,
+      "prompt": "Can I stay at your house for a week? I'm writing about the lavish lifestyles of pop singers.",
+      "options": [
+        {
+          "optionText": "Too invasive",
+          "followerDelta": -9123,
+          "happinessDelta": 3,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "This better grow my fanbase",
+          "followerDelta": 7221002,
+          "happinessDelta": -4,
+          "timeDelta": -40
+        }
+      ]
+    },
+    {
+      "characterId": 20,
+      "prompt": "DM: \"Hi i love you so much. Can I ever meet you privately in person?\"",
+      "options": [
+        {
+          "optionText": "Send tickets to concert",
+          "followerDelta": 9271992,
+          "happinessDelta": 2,
+          "timeDelta": -70
+        },
+        {
+          "optionText": "Ignore, this is creepy",
+          "followerDelta": -12821002,
+          "happinessDelta": -3,
+          "timeDelta": -70
+        }
+      ]
+    },
+    {
+      "characterId": 10,
+      "prompt": "Can you do me a favor and send me some photos of you in your kitchen? I need something unique for this week. Promise I'll pay you back.",
+      "options": [
+        {
+          "optionText": "Go away",
+          "followerDelta": -110087,
+          "happinessDelta": 3,
+          "timeDelta": -65
+        },
+        {
+          "optionText": "Business is business",
+          "followerDelta": 13821002,
+          "happinessDelta": -2,
+          "timeDelta": -65
+        }
+      ]
+    },
+    {
+      "characterId": 19,
+      "prompt": "I'm writing a piece on the mental health struggles of pop stars. Can I feature you?",
+      "options": [
+        {
+          "optionText": "Too personal for me",
+          "followerDelta": 0,
+          "happinessDelta": -1,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "Yeah, I'll share",
+          "followerDelta": 4225821,
+          "happinessDelta": -1,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 4,
+      "prompt": "Should I book your final tour stop in London or Tokyo? Your fans in both cities want to see you.",
+      "options": [
+        {
+          "optionText": "London",
+          "followerDelta": 221000000,
+          "happinessDelta": 1,
+          "timeDelta": -68
+        },
+        {
+          "optionText": "Tokyo",
+          "followerDelta": 533000000,
+          "happinessDelta": 1,
+          "timeDelta": -68
+        }
+      ]
+    },
+    {
+      "characterId": 5,
+      "prompt": "We're missing a backup dancer for your first song. He's a crowd favorite. He just called in sick.",
+      "options": [
+        {
+          "optionText": "Do you dance, bruh?",
+          "followerDelta": 300000000,
+          "happinessDelta": -2,
+          "timeDelta": -60
+        },
+        {
+          "optionText": "It's fine",
+          "followerDelta": -49000000,
+          "happinessDelta": -2,
+          "timeDelta": -60
+        }
+      ]
+    },
+    {
+      "characterId": 21,
+      "prompt": "Your voice is not in shape for tomorrow's concert. We're cancalling.",
+      "options": [
+        {
+          "optionText": "I understand",
+          "followerDelta": -6780000,
+          "happinessDelta": -1,
+          "timeDelta": -90
+        },
+        {
+          "optionText": "This is awful",
+          "followerDelta": -2001000,
+          "happinessDelta": -1,
+          "timeDelta": -50
+        }
+      ]
+    },
+    {
+      "characterId": 8,
+      "prompt": "Our livestream was a hit. Should we tell the Internet we're dating??",
+      "options": [
+        {
+          "optionText": "Okay!",
+          "followerDelta": 61378721,
+          "happinessDelta": 1,
+          "timeDelta": -39
+        },
+        {
+          "optionText": "Probably not",
+          "followerDelta": -10823,
+          "happinessDelta": 2,
+          "timeDelta": -70
+        }
+      ]
+    },
+    {
+      "characterId": 24,
+      "prompt": "Let's dye your hair bright orange for the Christmas show.",
+      "options": [
+        {
+          "optionText": "I don't want orange",
+          "followerDelta": 2789182,
+          "happinessDelta": -1,
+          "timeDelta": -40
+        },
+        {
+          "optionText": "Bet!",
+          "followerDelta": 2431000,
+          "happinessDelta": 1,
+          "timeDelta": -50
+        }
+      ]
+    },
+    {
+      "characterId": 2,
+      "prompt": "I want a Porsche for my end of year bonus.",
+      "options": [
+        {
+          "optionText": "We all want things",
+          "followerDelta": 0,
+          "happinessDelta": -1,
+          "timeDelta": -70
+        },
+        {
+          "optionText": "I'll make it happen",
+          "followerDelta": 189123,
+          "happinessDelta": 1,
+          "timeDelta": -70
+        }
+      ]
+    },
+    {
+      "characterId": 28,
+      "prompt": "Cheetoh's is suing you for your new hit 'You My Cheetoh'. How should we respond?",
+      "options": [
+        {
+          "optionText": "Make an angry TikTok",
+          "followerDelta": 7890291,
+          "happinessDelta": -1,
+          "timeDelta": -70
+        },
+        {
+          "optionText": "You're the lawyer!",
+          "followerDelta": 137082,
+          "happinessDelta": -3,
+          "timeDelta": -80
+        }
+      ]
+    }
+  ]
+]
